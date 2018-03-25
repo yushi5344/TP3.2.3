@@ -20,15 +20,15 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./Front/');
 
-//define('BIND_MODULE','Admin');
+define('BIND_MODULE','Admin');
 //define('BIND_CONTROLLER_LIST','user,info');
 //设置配置文件后缀名
 //define('CONF_EXT','.ini');
 //定义应用状态
-define('APP_STATUS','office');
+//define('APP_STATUS','office');
 //define('APP_STATUS','home');
 //设置安全文件
-define('DIR_SECURE_FILENAME','default.html');
+//define('DIR_SECURE_FILENAME','default.html');
 
 //define('COMMON_PATH','./Common');
 //define('BUILD_DIR_SECURE',false);

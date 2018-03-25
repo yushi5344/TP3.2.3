@@ -2,4 +2,4 @@
 .*
 !.gitignore
 ThinkPHP
-Application/Runtime
+Front/Runtime
